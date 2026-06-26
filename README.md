@@ -15,7 +15,7 @@
 
 ## 🚀 About the Project
 
-AlumniConnect is a premium full-stack platform designed to foster meaningful connections between university students and graduates. Whether it's finding a mentor, exploring job opportunities, or booking 1:1 sessions, AlumniConnect provides a seamless experience for everyone involved.
+AlumniConnect is a premium full-stack platform designed to foster meaningful connections between university students and graduates. Whether it's finding a mentor, exploring job opportunities, or booking sessions, AlumniConnect provides a seamless experience for everyone involved.
 
 ### ✨ Key Highlights
 
@@ -83,7 +83,7 @@ AlumniConnect is a premium full-stack platform designed to foster meaningful con
 
 ## 📸 Screenshots
 
-_(Coming Soon - Add screenshots of your application here)_
+_(Coming Soon)_
 
 ---
 
